@@ -48,7 +48,9 @@ Caso o email exista, o registro é excluído; caso contrário, é exibida uma me
 ## 🧠 Estrutura do Projeto
 
 ├── Main.java → Classe principal com o menu do sistema
+
 ├── Pessoa.java → Classe responsável pelos dados de cada pessoa
+
 └── Sistema.java → Classe que gerencia a lista de pessoas
 
 
